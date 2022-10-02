@@ -7,7 +7,7 @@ public class App {
 	private static final Logger logger = LogManager.getLogger(App.class);
 
     public static void main(String[] args) {
-        logger.info("Hello to Linked List Practise Problem!");
+    	logger.info("Hello to Linked List Practise Problem!");
         Linkedlist list = new Linkedlist();
         // list.insertNode(56);
         // list.insertNode(30);
@@ -16,6 +16,7 @@ public class App {
         // list.insertNode(30);
         list.insertAtStart(56);
         list.insertAtIndex(1, 30);
+        list.deleteNode(0);
         list.showLinkedList();
     }
 }
