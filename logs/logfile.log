@@ -10,3 +10,14 @@ INFO  | 2022-10-02 22:42:22 | [main] linkedlistpractice.Linkedlist (Linkedlist.j
 INFO  | 2022-10-02 22:42:22 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:63) - 30
 INFO  | 2022-10-02 22:42:22 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:103) - Node Found 30
 INFO  | 2022-10-02 22:42:22 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:125) - Size of Linked list is 2
+INFO  | 2022-10-02 22:48:47 | [main] linkedlistpractice.App (App.java:10) - Hello to Linked List Practise Problem!
+INFO  | 2022-10-02 22:48:47 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:60) - 56
+INFO  | 2022-10-02 22:48:47 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:60) - 30
+INFO  | 2022-10-02 22:48:47 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:60) - 40
+INFO  | 2022-10-02 22:48:47 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:63) - 70
+INFO  | 2022-10-02 22:48:47 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:103) - Node Found 30
+INFO  | 2022-10-02 22:48:47 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:125) - Size of Linked list is 4
+INFO  | 2022-10-02 22:48:47 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:60) - 30
+INFO  | 2022-10-02 22:48:47 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:60) - 40
+INFO  | 2022-10-02 22:48:47 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:60) - 56
+INFO  | 2022-10-02 22:48:47 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:63) - 70
