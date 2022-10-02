@@ -5,3 +5,8 @@ INFO  | 2022-10-02 22:24:19 | [main] linkedlistpractice.App (App.java:10) - Hell
 INFO  | 2022-10-02 22:32:02 | [main] linkedlistpractice.App (App.java:10) - Hello to Linked List Practise Problem!
 INFO  | 2022-10-02 22:37:21 | [main] linkedlistpractice.App (App.java:10) - Hello to Linked List Practise Problem!
 INFO  | 2022-10-02 22:37:36 | [main] linkedlistpractice.App (App.java:10) - Hello to Linked List Practise Problem!
+INFO  | 2022-10-02 22:42:22 | [main] linkedlistpractice.App (App.java:10) - Hello to Linked List Practise Problem!
+INFO  | 2022-10-02 22:42:22 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:60) - 56
+INFO  | 2022-10-02 22:42:22 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:63) - 30
+INFO  | 2022-10-02 22:42:22 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:103) - Node Found 30
+INFO  | 2022-10-02 22:42:22 | [main] linkedlistpractice.Linkedlist (Linkedlist.java:125) - Size of Linked list is 2
